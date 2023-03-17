@@ -3,6 +3,8 @@ Hello Dev! 😁
 About me 👉: "Nowadays I'm studying Information Systems and working as a Back-End Developer. I am an ambitious person for learning and I am always looking for new challenges to develop myself every day! I like to use my creativity to think of different ways to solve a problem, and help people in the best possible way!" <br>
 <br>
 
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Rigonato&show_icons=true&theme=dark&count_private=true&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rigonato&show_icons=true&theme=dark&count_private=true)](https://github.com/Gabriel-Rigonato/github-readme-stats)
 
