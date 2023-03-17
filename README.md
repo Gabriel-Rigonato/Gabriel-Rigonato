@@ -1,16 +1,19 @@
-### Hi there 👋
+Hello Dev! 😁 
 
-<!--
-**Gabriel-Rigonato/Gabriel-Rigonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me 👉: "Nowadays I'm studying Information Systems and working as a Back-End Developer. I am an ambitious person for learning and I am always looking for new challenges to develop myself every day! I like to use my creativity to think of different ways to solve a problem, and help people in the best possible way!"
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Rigonato&show_icons=true&theme=dark&count_private=true&line_height=27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rigonato&show_icons=true&theme=dark&count_private=true)](https://github.com/Gabriel-Rigonato/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rigo-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align="center" alt="Rigo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rigo-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rigo-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img  align="center" alt="Rigo-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
+</div>
+
+
+
