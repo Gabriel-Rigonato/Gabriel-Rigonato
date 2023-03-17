@@ -8,6 +8,7 @@ About me 👉: "Nowadays I'm studying Information Systems and working as a Back-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Rigonato&show_icons=true&theme=dark&count_private=true&line_height=27)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rigonato&show_icons=true&theme=dark&count_private=true)](https://github.com/Gabriel-Rigonato/github-readme-stats)
 
+Technologies I use in my day 👾 : 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rigo-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> &nbsp&nbsp
