@@ -5,8 +5,8 @@ About me 👉: "Nowadays I'm studying Information Systems and working as a Back-
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Rigonato&show_icons=true&theme=dark&count_private=true&line_height=27)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rigonato&layout=compact)](https://github.com/Gabriel-Rigonato/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Rigonato&show_icons=true&theme=dark&count_private=true&line_height=27)<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rigonato&layout=compact&show_icons=true&theme=dark&count_private=true&line_height=27)](https://github.com/Gabriel-Rigonato/github-readme-stats)
 
 Technologies I use in my day 👾 : 
 
