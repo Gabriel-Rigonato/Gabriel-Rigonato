@@ -1,6 +1,10 @@
 Hello Dev! 😁 
 
-About me 👉: "Nowadays I'm studying Information Systems and working as a Back-End Developer. I am an ambitious person for learning and I am always looking for new challenges to develop myself every day! I like to use my creativity to think of different ways to solve a problem, and help people in the best possible way!" <br>
+Seu foco é 👉: "Tenho como objetivo no momento me desenvolver cada dia mais
+profissionalmente, me empenhando nos estudos para gerar
+conhecimento e dessa forma poder aplicar nos locais de trabalho,
+gerando assim boas resoluções e um impacto positivo no processo e no
+desenvolvimento.!" <br>
 <br>
 
 
