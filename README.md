@@ -1,6 +1,6 @@
 Hello Dev! 😁 
 
-Seu foco é 👉: "Tenho como objetivo no momento me desenvolver cada dia mais
+Meu foco é 👉: "Tenho como objetivo no momento me desenvolver cada dia mais
 profissionalmente, me empenhando nos estudos para gerar
 conhecimento e dessa forma poder aplicar nos locais de trabalho,
 trazendo assim boas resoluções e um impacto positivo no processo e no
