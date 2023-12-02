@@ -12,7 +12,7 @@ desenvolvimento!" <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Rigonato&show_icons=true&theme=dark&count_private=true&line_height=27)<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Rigonato&layout=compact&show_icons=true&theme=dark&count_private=true&line_height=27)](https://github.com/Gabriel-Rigonato/github-readme-stats)
 
-Technologies I use in my day 👾 : 
+Tecnologias que eu uso no meu dia 👾 : 
 
 <div style="display: inline_block"><br>
 
